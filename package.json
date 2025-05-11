@@ -13,5 +13,9 @@
   "scripts": {
     "lint": "eslint . --ext .ts,.tsx,.js,.jsx",
     "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,css,md}\""
+  },
+  "dependencies": {
+    "framer-motion": "^12.10.5",
+    "howler": "^2.2.4"
   }
 }
